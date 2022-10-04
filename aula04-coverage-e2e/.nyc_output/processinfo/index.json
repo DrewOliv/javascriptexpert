@@ -1,0 +1,1 @@
+{"processes":{"1cd118d3-0ca3-48b3-a1ac-38a4f005d561":{"parent":null,"children":["d7a16f94-2eb1-4b60-9eb2-4694d38064dc"]},"d7a16f94-2eb1-4b60-9eb2-4694d38064dc":{"parent":"1cd118d3-0ca3-48b3-a1ac-38a4f005d561","children":[]}},"files":{"/home/davibatista/projects/cursos/javascriptexpert/aula04-coverage-e2e/api.js":["d7a16f94-2eb1-4b60-9eb2-4694d38064dc"]},"externalIds":{}}
