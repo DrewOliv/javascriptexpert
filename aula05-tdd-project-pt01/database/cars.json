@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3f41cc09-39e1-4ed9-856a-cf2cd3d44c99",
+    "name": "Aventador",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "45842460-8f9c-4fd1-9812-d04c54dff22d",
+    "name": "Focus",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]

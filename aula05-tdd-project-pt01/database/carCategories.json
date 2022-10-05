@@ -1,0 +1,11 @@
+[
+  {
+    "id": "f4118ea1-03b7-42c2-986d-8b339c95066e",
+    "name": "Convertible",
+    "carIds": [
+      "3f41cc09-39e1-4ed9-856a-cf2cd3d44c99",
+      "45842460-8f9c-4fd1-9812-d04c54dff22d"
+    ],
+    "price": 31.5
+  }
+]
